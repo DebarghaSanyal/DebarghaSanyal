@@ -1,6 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Debargha+Sanyal%2C+Welcome+to+my+profile!;I+am+an+aspiring+Software+Developer.)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghasanyal&label=Profile%20views&color=0e75b6&style=flat" alt="debarghasanyal" /> </p>
 
+<blockquote>
+  <table border="4" bordercolor="violet" cellspacing="0" cellpadding="0" align="right">
+    <tr>
+      <td>
+        <img alt="Coding" width="400" 
+        src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
+      </td>
+    </tr>
+  </table>
+</blockquote>
+
+
+
+
 - 🔭 I’m currently working on **API based project**
 
 - 🌱 I’m currently learning **React and ML**
