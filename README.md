@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=1800&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Debargha+Sanyal%2C+Welcome+to+my+profile!;I+am+an+aspiring+Software+Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1800&center=true&vCenter=true&width=800&height=80&lines=Hello%2C+I'm+Debargha+Sanyal%2C+Welcome+to+my+profile!;I+am+an+aspiring+Software+Developer.)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debarghasanyal&label=Profile%20views&color=0e75b6&style=flat" alt="debarghasanyal" /> </p>
 
 - 🔭 I’m currently working on **API based project**
