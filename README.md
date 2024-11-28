@@ -5,7 +5,7 @@
   <table border="4" bordercolor="violet" cellspacing="0" cellpadding="0" align="right">
     <tr>
       <td>
-        <img alt="Coding" width="400" 
+        <img alt="Coding" width="300" 
         src="https://cdnb.artstation.com/p/assets/images/images/036/125/405/original/igor-freitas-mesa.gif?1616779562">
       </td>
     </tr>
