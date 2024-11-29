@@ -16,11 +16,11 @@
 
 
 
-- 🔭 I’m currently working on **API based project**
+- 🔭 I’m currently working on an **API based project**
 
 - 🌱 I’m currently learning **React and ML**
 
-- 👯 I’m looking to collaborate on **Full Stack project**
+- 👯 I’m looking to collaborate on **Full Stack projects**
 
 - 💬 Ask me about **C, C++, Java, React, TailwindCSS**
 
