@@ -73,9 +73,23 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DebarghaSanyal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DebarghaSanyal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebarghaSanyal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  
+<!-- ![](https://github-readme-stats.vercel.app/api?username=DebarghaSanyal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<p>&nbsp;<img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=debarghasanyal&show_icons=true&locale=en&theme=radical" alt="debarghasanyal" /></p>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=DebarghaSanyal&theme=radical&hide_border=false)<br/> 
+ 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DebarghaSanyal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarghasanyal&layout=compact&theme=radical" alt=debarghasanyal /><br/>
+<!--
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=debarghasanyal&theme=radical" alt="debarghasanyal" /></p>
+-->
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
